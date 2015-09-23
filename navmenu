@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<header>
+  <title>webutvikling, navmenu</title>
+  <meta charset="utf-8"> 
+      <link rel="stylesheet" type="text/css" href= "gruppeside.css"/>
+</header>
+<body>
+<div class="alt">
+    <nav class="vmenu">
+        <ul>
+            <li>
+                <a href="#">den fyste</a>
+                    <div>
+                        <ul>
+                            <li><a href="#">blabla</a></li>
+                            <li><a href="#">andre</a></li>
+                            <li><a href="#">tredje</a></li>
+                            <li><a href="#">fjerde</a></li>
+                        </ul>
+                    </div>
+            </li>
+            <li>
+                <a href="#">femte</a>
+                    <div>
+                        <ul>
+                            <li><a href="#">sjette</a></li>
+                            <li><a href="#">syvende</a></li>
+                            <li><a href="#">åttende</a></li>   
+                        </ul>
+                    </div>
+                </li>
+                <li>
+                    <a href="#">niende</a>
+                        <div>
+                            <ul>
+                            <li><a href="#">tidende</a></li>
+                            <li><a href="#">elefte</a></li>
+                            <li><a href="#">tolte</a></li> 
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </nav>    
+        </div>
+</body>
+</html>
