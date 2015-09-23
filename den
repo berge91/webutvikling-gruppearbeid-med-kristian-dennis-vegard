@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<header>
+  <title>oppgave 1</title>
+    <link rel="stylesheet" type="text/css" href= "oppgave1.css"/>
+  <meta charset="UTF-8"> 
+</header>
+    <body>
+    
+        <h1 id="oppgave1">Oppgave 1</h1>
+        <p id="p1">Type somthing to print:</p>
+        <input type="text" id="word1">
+        <p id="p2">How many times?:</p>
+        <input type="number" id="number1">
+        <p>
+        <input type="button" id="button1" value="Fyll inn ord og number å trykk" onclick="kommigjen()">
+        </p>
+        <p id="svar1"></p>
+        <script>
+            
+            function kommigjen(){
+                var word2 = document.getElementById ("word1").value;
+                var number2 = document.getElementById ("number1").value;
+                var svar2 = document.getElementById ("svar1");
+                var number1 = 1;
+                if(number2 > 1000){
+                    window.alert("Maks 1000 ganger!");
+                    return false;
+                }
+                                document.getElementById("button1").onclick = (svar2.innerHTML = " ");
+
+                
+                while (number2 > 0 && number2 <= 1000){
+                    svar2.innerHTML += number1++ + ") " + word2 + "<br/>";
+                    number2--;
+                }
+            }
+            
+            
+        </script>
+        
+    </body>
+</html>
