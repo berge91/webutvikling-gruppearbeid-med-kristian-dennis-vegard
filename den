@@ -15,6 +15,7 @@
         <input type="button" id="button1" value="Fyll inn ord og number å trykk" onclick="kommigjen()">
         </p>
         <p id="svar1"></p>
+        <p>Vegg planter</p>
         <script>
             
             function kommigjen(){
