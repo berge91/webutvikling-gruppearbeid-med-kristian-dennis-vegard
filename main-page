@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<link rel="stylesheet" type="text/css" href="cssweb.css" />
+	<title>våres oppg</title>
+
+</head>
+
+<body>
+	<header>
+		<h1 id="logo">Ze Edge</h1><br/>
+		<h1>KnowlEdge of Gaming</h1>
+	</header>
+<aside>
+	<div class="alt">
+    <nav class="vmenu">
+        <ul>
+            <li>
+                <a href="#">Game Information</a>
+                    <div>
+                        <ul>
+                            <li><a href="#">blabla</a></li>
+                            <li><a href="#">andre</a></li>
+                            <li><a href="#">tredje</a></li>
+                            <li><a href="#">fjerde</a></li>
+                        </ul>
+                    </div>
+            </li>
+            <li>
+                <a href="#">femte</a>
+                    <div>
+                        <ul>
+                            <li><a href="#">sjette</a></li>
+                            <li><a href="#">syvende</a></li>
+                            <li><a href="#">åttende</a></li>   
+                        </ul>
+                    </div>
+                </li>
+                <li>
+                    <a href="#">niende</a>
+                        <div>
+                            <ul>
+                            <li><a href="#">tidende</a></li>
+                            <li><a href="#">elefte</a></li>
+                            <li><a href="#">tolte</a></li> 
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </nav>    
+        </div>
+	</aside>
+	
+	<article>
+		<h1>The Great Cosmo of Games</h1>
+		<h3></h3>
+		<p>
+		</p>
+		
+	</article>
+	
+	
+	<footer>
+		<section>
+	  	<a href="#"> > Back to the Top</a>
+		  <a></a>
+		</section>
+	
+	</footer>
+</body>
+</html>
