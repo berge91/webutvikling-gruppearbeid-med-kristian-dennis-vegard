@@ -1,0 +1,124 @@
+body {
+	margin: 0px auto;
+	width: 960px;
+	
+	background: #333333;
+	border: 20px solid black;
+	color: #EBEBEB;
+	font-family: calibri;	
+}
+
+
+header {
+	width: 940px;
+	height: 140px;
+	border: 10px solid black;
+	text-align: center;
+	font-family: algerian;
+	line-height: 10px;
+}
+
+#logo {
+	Font-size: 50px;
+	
+}
+
+img {
+	float: left;
+	z-index:-1;
+
+	
+}
+
+.picture {
+	float: left;
+	z-index: -1;
+	margin: 10px 10px 10px 10px;
+}
+
+.picture2 {
+	float: right;
+	z-index: -1;
+	margin: 10px 10px 10px 10px;
+	
+}
+
+aside {
+	width: ;
+	float: right;
+	
+	text-decoration:none;
+	
+}
+
+
+article {
+	float:left;
+	width: 700px;
+	
+}
+nav.vmenu {
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(o,o,o,.15);
+    overflow: hidden;
+    text-align: center;
+}
+nav.vmenu > ul {
+    list-style-type: none;
+}
+nav.vmenu > ul > li {
+    display: block;
+}
+nav.vmenu > ul > li > a {
+    background-color: blueviolet;
+    border-bottom: 1px solid rgba(255,255,255,.1);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.3), 0 1px 1px rgba(0,0,0,.3);
+    color: #5C2E00;
+    display: block;
+    font-size: 20px;
+    font-weight: 500;
+    height: 50px;
+    min-width: 150px;
+	padding: 0 5px 0 5px;
+    line-height: 50px;
+    text-shadow: 0 1px 1px rgba(0,0,0,.2);
+    text-transform: uppercase;
+    transition: all .1s ease;
+    text-decoration: none;
+}
+nav.vmenu > ul > li > a:hover {
+    background-color: cornsilk;
+    cursor: pointer;
+}
+nav.vmenu > ul > li > div {
+    background-color: rgba(255,255,255,.3);
+}
+nav.vmenu > ul > li > div > ul {
+    list-style-type: none;          
+}
+nav.vmenu > ul > li > div > ul > li > a {
+    background-color: darkgoldenrod;
+    border-bottom: 1px solid rgba(0,0,0,.05);
+    color: white;
+    display: block;
+    font-size: 20px;
+    padding: 10px 0;
+    text-decoration: none;
+    transition: all 0.15s linear;
+}
+nav.vmenu > ul > li > div > ul > li:hover > a {
+    background-color: lightcoral;
+    color: darksalmon;
+    padding: 10px 0 10px 50px;
+}
+
+
+footer {
+	clear: both;
+	border-top: 4px solid black;
+	height: 50px;
+	text-align: center;
+	font-family: calibri;
+	text-decoration: none;
+	
+}
