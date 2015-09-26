@@ -1,0 +1,96 @@
+body {
+	margin: 0px auto;
+	width: 960px;
+	
+	background: #333333;
+	border: 20px solid black;
+	color: #EBEBEB;
+	font-family: calibri;	
+}
+
+
+header {
+	width: 940px;
+	height: 95px;
+	border: 10px solid black;
+	text-align: center;
+	font-family: algerian;
+}
+
+aside {
+	width: 150px;
+	height: ;
+	float: right;
+	border: 4px solid black;	
+	text-decoration:none;
+	margin: 10px;
+}
+
+footer {
+	clear: both;
+	border-top: 4px solid black;
+	height: 50px;
+	text-align: center;
+	font-family: algerian;
+	text-decoration: none;
+	
+}
+
+#me1 {
+	float:left;
+	width: 750px;
+	
+}
+nav.vmenu {
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(o,o,o,.15);
+    overflow: hidden;
+    text-align: center;
+}
+nav.vmenu > ul {
+    list-style-type: none;
+}
+nav.vmenu > ul > li {
+    display: block;
+}
+nav.vmenu > ul > li > a {
+    background-color: blueviolet;
+    border-bottom: 1px solid rgba(255,255,255,.1);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.3), 0 1px 1px rgba(0,0,0,.3);
+    color: brown;
+    display: block;
+    font-size: 20px;
+    font-weight: 500;
+    height: 50px;
+    letter-spacing: .5rem;
+    line-height: 50px;
+    text-shadow: 0 1px 1px rgba(0,0,0,.2);
+    text-transform: uppercase;
+    transition: all .1s ease;
+    text-decoration: none;
+}
+nav.vmenu > ul > li > a:hover {
+    background-color: cornsilk;
+    cursor: pointer;
+}
+nav.vmenu > ul > li > div {
+    background-color: rgba(255,255,255,.3);
+}
+nav.vmenu > ul > li > div > ul {
+    list-style-type: none;          
+}
+nav.vmenu > ul > li > div > ul > li > a {
+    background-color: darkgoldenrod;
+    border-bottom: 1px solid rgba(0,0,0,.05);
+    color: white;
+    display: block;
+    font-size: 20px;
+    padding: 10px 0;
+    text-decoration: none;
+    transition: all 0.15s linear;
+}
+nav.vmenu > ul > li > div > ul > li:hover > a {
+    background-color: lightcoral;
+    color: darksalmon;
+    padding: 10px 0 10px 50px;
+}
