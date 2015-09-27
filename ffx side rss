@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Final Fantasy X  information</title>
+  <link>http://www.it-stud.hiof.no/~krisbe/ffxside.html</link>
+  <description>A website about the game Final Fantasy X, a game originaly made for playstation 2 but now also available on 3 and 4. its a RPG single player game focusing on a good story, coustimazation and content kvantety. its a timebased battle system game.</description>
+  <image>
+      <title>Final Fantasy X  information</title>
+      <url>http://www.it-stud.hiof.no/~krisbe/ffxside/rss.png</url>
+      <link>http://www.it-stud.hiof.no/~krisbe/ffxside.html</link>
+  </image>
+  <item>
+      <title>Final Fantasy X site</title>
+      <link>http://www.it-stud.hiof.no/~krisbe/ffxside.html</link>
+      <description>Final Fantasy X (ファイナルファンタジーX Fainaru Fantajī Ten?) is a role-playing video game developed and published by Square Soft (now Square Enix) as the tenth entry in the Final Fantasy series. Originally released in 2001 for Sony's PlayStation 2, the game was re-released as a high-definition port for the PlayStation 3 and PlayStation Vita on March 18, 2014, under the name Final Fantasy X/X-2 HD Remaster.[5][6][7] It was also re-released for the PlayStation 4 in May 2015.[4] The game marks the Final Fantasy series transition from entirely pre-rendered backdrops to fully three-dimensional areas, and is also the first in the series to feature voice acting. Final Fantasy X replaces the Active Time Battle (ATB) system with the "Conditional Turn-Based Battle" (CTB) system, and uses a new leveling system called the "Sphere Grid".</description>
+    <guid>http://www.it-stud.hiof.no/~krisbe/ffxside.html</guid>
+    </item>    
+</channel>
+</rss>
