@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" type="text/css" href="cssweb.css" />
+    <title>ZE edge PC games</title>
+
+</head>
+
+<body>
+    <header>
+        <h1 id="logo">Ze Edge PC games</h1>
+        <br/>
+        <h1>Shop for PC games</h1>
+    </header>
+    <aside>
+        <div class="alt">
+            <nav class="vmenu">
+                <ul>
+                    <li>
+                        <a href="#">Game Information</a>
+                        <div>
+                            <ul>
+                                <li><a href="ffxside.html">Final Fantasy X information</a></li>
+                                <li><a href="http://ask.hiof.no/~dzianisa/hl3.html">Half Life 3 information</a></li>
+                                <li><a href="masseffect.html">Mass Effect information</a></li>
+                                <li><a href="webutviklinghome.html">Home</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                   <!---- <li>
+                        <a href="#">major Genres:</a>
+                        <div>
+                            <ul>
+                                <li><a href="#">MMORPG</a></li>
+                                <li><a href="#">FPS</a></li>
+                                <li><a href="#">Strategy</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <!----<li>
+                    <a href="#">niende</a>
+                        <div>
+                            <ul>
+                            <li><a href="#">tidende</a></li>
+                            <li><a href="#">elefte</a></li>
+                            <li><a href="#">tolte</a></li> 
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </nav>    
+        </div>---->
+    </aside>
+
+    <article>
+        <h1>PC games news:</h1>
+        <h3></h3>
+        <p>
+        </p>
+    </article>
+                <nav id="nav1">
+        <section id="s1">
+            <p id="p1">
+                <h4>Final Fantasy XIV expansion, heavensward</h4>
+                <a href="finalfantasyxivbuy.html">
+                <img class="picture" src="ff14.jpeg" width=100 height=120 alt="final fantasy 14 expansion pack" />
+                    </a>
+                <a href="finalfantasyxivbuy.html">Final fantasy XIV expansion, heavensward</a></p>
+                    <h6>39.99$</h6>
+        </section>
+                
+        <section id="s2">       
+        <p id="p2">
+            <h4>Battlefront online PRE-ORDER</h4>
+            <a href="battlefrontbuy.html">
+            <img class="picture" src="battlefront.jpeg" width=100 height=120 alt="Battlefront online game" />
+            </a>
+            <a href="battlefrontbuy.html">Battlefront online. preorder.</a></p>
+            <h6>70.99$</h6>   
+        </section>  
+        
+        <section id="s3">     
+        <p id="p3">
+            <h4>Dragon age, inqusition.</h4>
+            <a href="dragonageinquistion.html">
+            <img class="picture" src="dragonage.jpeg" width=100 height=120 alt="Dragon age unqusition" />
+            </a>
+            <a href="dragonageinquistion.html">Dragon age inqusition.</a></p>
+            <h6>40.99$</h6>
+    </section>
+        
+        <section id="s4">
+        <p id="p4">
+            <h4>The witcher 3</h4>
+            <a href="witcher3.html">
+            <img class="picture" src="thewitcher3.png" width=100 height=120 alt="The witcher 3" />
+            </a>
+            <a href="witcher3.html">The witcher 3</a></p>
+        <h6>40.99$</h6>
+        </section>
+    </nav>
+    
+    <section id="gamessale">
+        <h2>SALES</h2>
+        <a href="https://www.origin.com/en-no/store/buy/battlefield-4/pc-download/base-game/standard-edition">
+        <img class="picture" src="bf4.jpg" width=100 height=120 alt="Battlefield 4" link="#"/>
+        </a>    
+        <a href="https://www.origin.com/en-no/store/buy/crysis-3/pc-download/base-game/standard-edition">
+        <img class="picture" src="crysis3.jpg" width=100 height=120 alt="Crysis 3" link="#"/>
+        </a>
+        <a href="https://www.origin.com/en-no/store/buy/dead-space-2/pc-download/base-game/standard-edition">
+        <img class="picture" src="deadspace.png" width=100 height=120 alt="Dead Space 2" link="#"/>
+        </a>
+        <a href="https://www.origin.com/en-no/store/buy/nfs-the-run-2012/pc-download/base-game/standard-edition">
+        <img class="picture" src="needforspeed.jpg" width=100 height=120 alt="Need for speed The run" link="#"/>
+        </a>
+        <a href="https://www.origin.com/en-no/store/buy/medal-of-honor-warfighter/pc-download/base-game/digital-deluxe-edition">    
+        <img class="picture" src="medalofhonor.jpg" width=100 height=120 alt="Medal of honor" link="#"/>
+        </a>
+        <a href="https://www.origin.com/en-no/store/buy/kingdoms-of-amalur-reckoning/pc-download/addon/kingdoms-of-amalur-reckoning--the-legend-of-dead-kel">
+        <img class="picture" src="kingdom.jpg" width=100 height=120 alt="kingdom of amalur" link="#"/>
+        </a>
+        <a href="https://www.origin.com/en-no/store/buy/dragon-age-2/mac-pc-download/base-game/standard-edition">    
+        <img class="picture" src="dragonage2.jpg" width=100 height=120 alt="Dragon age 2" link="#"/>
+        </a>
+        <a href="http://store.steampowered.com/app/258970/">    
+        <img class="picture" src="Gauntlet.png" width=100 height=120 alt="Gauntlet" link="#"/>
+        </a>    
+    </section>
+    <br>
+    <section>
+        <h2>More favourite games</h2>
+        <a href="http://www.gamestop.com/pc/games/grand-theft-auto-v/115461?utm_source=linkshare&utm_medium=affiliate&utm_campaign=deeplink&cid=afl_10000087&affID=77777&sourceID=JV48OZBQcH4-RfFvMOAeC4pyILAeugXOuA">
+        <img class="picture" src="gta4.png" width=100 height=120 alt="GTA 4" link="#"/>
+        </a>
+        <a href="http://www.gamestop.com/pc/games/grand-theft-auto-v/115461">
+        <img class="picture" src="gta5.jpg" width=100 height=120 alt="GTA 5" link="#"/>
+        </a>
+    <a href="https://www.game.co.uk/en/sid-meiers-civilization-beyond-earth-rising-tide-635281?pageSize=40&categoryIdentifier=786620&catGroupId=">   
+        <img class="picture" src="beyondearth.png" width=100 height=120 alt="Beyond earth" href="https://www.game.co.uk/en/sid-meiers-civilization-beyond-earth-rising-tide-635281?pageSize=40&categoryIdentifier=786620&catGroupId="/>
+        </a>
+        </a>
+        <a href="https://www.game.co.uk/en/the-elder-scrolls-online-tamriel-unlimited-crown-edition-only-at-game-595936?pageSize=40&categoryIdentifier=792678&catGroupId=">
+        <img class="picture" src="elderscrolls.png" width=100 height=120 alt="Elder scrolls"/>
+        </a>
+        <a href="http://www.game.co.uk/en/Fallout+4-637099?cm_vc=Cat_1">
+        <img class="picture" src="fallout4.png" width=100 height=120 alt="Fall out 4"/>
+        </a>    
+        <a href="https://www.game.co.uk/en/metal-gear-solid-v-the-phantom-pain-756121?attributeName1=Shop%20By&pageSize=20&provenance=New&catGroupId=&categoryIdentifier=10226&attributeValue1=63">
+        <img class="picture" src="metalgear.png" width=100 height=120 alt="Metal Gear solid"/>
+        </a> 
+        <a href="https://www.origin.com/en-no/store/buy/battlefield-4/pc-download/base-game/standard-edition">
+        <img class="picture" src="bf4.jpg" width=100 height=120 alt="Battlefield 4" link="#"/>
+        </a>
+    <a href="https://www.origin.com/en-no/store/buy/crysis-3/pc-download/base-game/standard-edition">
+        <img class="picture" src="crysis3.jpg" width=100 height=120 alt="Crysis 3" link="#"/>
+    </a>
+    </section>
+    
+    <footer>
+        <section>
+            <a href="#"> > Back to the Top</a>
+            <a></a>
+        </section>
+    </footer>
+</body>
+
+</html>
